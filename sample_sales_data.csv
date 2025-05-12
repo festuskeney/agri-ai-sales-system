@@ -1,0 +1,4 @@
+date,product_name,product_category,sales,customer_segment,sales_channel
+2024-01-01,Fertilizer A,Fertilizer,1500.0,Segment 1,Online
+2024-01-02,Seeds B,Seeds,800.0,Segment 2,Offline
+2024-01-03,Tractor C,Machinery,5000.0,Segment 1,Online
